@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on 8500 Hugo Demo</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on 8500 Hugo Demo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>&lt;p&gt;This is the first post. Hugo uses the &lt;code&gt;date&lt;/code&gt; in front matter for sorting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>https://example.org/posts/second-post/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/second-post/</guid>
+      <description>&lt;p&gt;Another post. Add more &lt;code&gt;.md&lt;/code&gt; files to &lt;code&gt;content/posts/&lt;/code&gt; to create new posts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;about-this-site&#34;&gt;About This Site&lt;/h1&gt;&#xA;&lt;p&gt;This is a minimal Hugo example for teaching static site generation.&lt;/p&gt;&#xA;&lt;p&gt;Hugo uses Markdown files in the &lt;code&gt;content/&lt;/code&gt; directory and templates in &lt;code&gt;layouts/&lt;/code&gt; to generate HTML.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

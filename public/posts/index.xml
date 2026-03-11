@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 8500 Hugo Demo</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 8500 Hugo Demo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;This is the first post. Hugo uses the &lt;code&gt;date&lt;/code&gt; in front matter for sorting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;p&gt;Another post. Add more &lt;code&gt;.md&lt;/code&gt; files to &lt;code&gt;content/posts/&lt;/code&gt; to create new posts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
