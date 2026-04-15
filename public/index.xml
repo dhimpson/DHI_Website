@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on 8500 Hugo Demo</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:54747/</link>
     <description>Recent content in Home on 8500 Hugo Demo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54747/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Historical Silences and the Struggle to Remember</title>
-      <link>http://localhost:1313/blog/second-post/</link>
+      <link>http://localhost:54747/blog/second-post/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/second-post/</guid>
-      <description>&lt;h1 id=&#34;historical-silences-and-the-struggle-to-remember&#34;&gt;Historical Silences and the Struggle to Remember&lt;/h1&gt;&#xA;&lt;p&gt;A few years ago, my kids and I visited Monticello. After touring the main floor of the house and marveling at the many curiosities that it contained, we made our way to the basement, where enslaved persons toiled to make the beautiful environment above the stairs possible. We sat in the room that historians believed to belong to Sally Hemmings and watched the digital presentation of her life. We toured the reconstructed cabins that housed many of those enslaved on the plantation. All of this was moving and meaningful, but there was one moment on the &amp;ldquo;slave tour&amp;rdquo; that stopped me in my tracks. The tour guide mentioned that historians working on the plantation were struggling to identify and tell the stories of field slaves. These enslaved persons were said to live on the edges of Jefferson&amp;rsquo;s fields in temporary housing and were required to shift that housing according to what field demanded their attention.&lt;/p&gt;</description>
+      <guid>http://localhost:54747/blog/second-post/</guid>
+      <description>&lt;h1 id=&#34;historical-silences-and-the-struggle-to-remember&#34;&gt;Historical Silences and the Struggle to Remember&lt;/h1&gt;
+&lt;p&gt;A few years ago, my kids and I visited Monticello. After touring the main floor of the house and marveling at the many curiosities that it contained, we made our way to the basement, where enslaved persons toiled to make the beautiful environment above the stairs possible. We sat in the room that historians believed to belong to Sally Hemmings and watched the digital presentation of her life. We toured the reconstructed cabins that housed many of those enslaved on the plantation. All of this was moving and meaningful, but there was one moment on the &amp;ldquo;slave tour&amp;rdquo; that stopped me in my tracks. The tour guide mentioned that historians working on the plantation were struggling to identify and tell the stories of field slaves. These enslaved persons were said to live on the edges of Jefferson&amp;rsquo;s fields in temporary housing and were required to shift that housing according to what field demanded their attention.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Digital History</title>
-      <link>http://localhost:1313/blog/what_is_digital_history/</link>
+      <link>http://localhost:54747/blog/what_is_digital_history/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/what_is_digital_history/</guid>
-      <description>&lt;p&gt;What is digital history? This question is one that I hear constantly. I have recently begun to ask the questioner what it is they might think before I attempt to answer myself. A few of the answers: History with a computer? History that uses spreadsheets? And, my all-time personal favorite, a worldwide conspiracy for &amp;ldquo;them&amp;rdquo; to control us all by placing all history on servers controlled by the elite.&lt;/p&gt;&#xA;&lt;p&gt;But all kidding aside, digital history is an approach to doing history by imploring digital tools. It involves traditional and digital research methods to explore historical topics, trends, and relationships that cannot be discovered without the use of digital tools. Digital history is a broad and diverse field that rewards curious historians with the ability to see history in new ways.&lt;/p&gt;</description>
+      <guid>http://localhost:54747/blog/what_is_digital_history/</guid>
+      <description>&lt;h1 id=&#34;what-is-digital-history&#34;&gt;What is Digital History?&lt;/h1&gt;
+&lt;p&gt;What is digital history? This question is one that I hear constantly. I have recently begun to ask the questioner what it is they might think before I attempt to answer myself. A few of the answers: History with a computer? History that uses spreadsheets? And, my all-time personal favorite, a worldwide conspiracy for &amp;ldquo;them&amp;rdquo; to control us all by placing all history on servers controlled by the elite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:54747/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;dora-helen-impson&#34;&gt;Dora Helen Impson&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Posterity! You will never know how much it cost the present generation to preserve your freedom. I hope you will make good use of it.&amp;rdquo; These words from John Adams articulate why I have chosen to become a historian.&lt;/p&gt;&#xA;&lt;p&gt;My love of history stems from my grandparents, who were part of the generation that endured World War II. They were my playmates and first history teachers, and I owe them an outstanding debt. My thirst for historical knowledge is rooted in the lessons I learned at my grandparents&amp;rsquo; side. The importance of sharing this knowledge with future generations was impressed on me by those who truly understood the price that has been paid for freedom.&lt;/p&gt;</description>
+      <guid>http://localhost:54747/about/</guid>
+      <description>&lt;h1 id=&#34;dora-helen-impson&#34;&gt;Dora Helen Impson&lt;/h1&gt;
+&lt;p&gt;&amp;ldquo;Posterity! You will never know how much it cost the present generation to preserve your freedom. I hope you will make good use of it.&amp;rdquo; These words from John Adams articulate why I have chosen to become a historian.&lt;/p&gt;
+&lt;p&gt;My love of history stems from my grandparents, who were part of the generation that endured World War II. They were my playmates and first history teachers, and I owe them an outstanding debt. My thirst for historical knowledge is rooted in the lessons I learned at my grandparents&amp;rsquo; side. The importance of sharing this knowledge with future generations was impressed on me by those who truly understood the price that has been paid for freedom.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

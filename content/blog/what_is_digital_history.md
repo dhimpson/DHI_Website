@@ -2,6 +2,7 @@
 title: "What is Digital History"
 date: 2024-11-07
 ---
+# What is Digital History?
 
 What is digital history? This question is one that I hear constantly. I have recently begun to ask the questioner what it is they might think before I attempt to answer myself. A few of the answers: History with a computer? History that uses spreadsheets? And, my all-time personal favorite, a worldwide conspiracy for "them" to control us all by placing all history on servers controlled by the elite.
 

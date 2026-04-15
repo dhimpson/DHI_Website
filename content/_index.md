@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# Welcome to Our Hugo Demo
+# Welcome to my website
 
 This is a minimal static website built with [Hugo](https://gohugo.io/).
 
