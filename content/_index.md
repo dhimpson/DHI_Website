@@ -1,17 +1,29 @@
 ---
-title: "Home"
+title: "Dora Helen Impson"
 ---
 
-# Welcome to my website
+<img src="/images/Dora_Helen_Impson.jpeg" alt="Dora Helen Impson" style="width: 300px; border-radius: 10px;">
 
-This is a minimal static website built with [Hugo](https://gohugo.io/).
+# Dora Helen Impson
 
-## Quick Start
+Welcome to my website. I am a scholar and researcher focused on exploring the intersections of history, technology, and social justice.
 
-1. Run `hugo server` to preview locally
-2. Run `hugo` to build the site (output goes to `public/`)
+## Research Interests
 
-## Learn More
+- **Digital History** — Using digital tools and methods to understand historical narratives
+- **Legal History** — Examining legal systems and their historical contexts
+- **Spatial History** — Analyzing how geography shapes historical events
+- **Black History** — Centering Black experiences and contributions in historical research
 
-- [Hugo Documentation](https://gohugo.io/documentation/)
-- [Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
+---
+
+## Explore My Work
+
+- [Blog](/blog) — Recent articles and reflections
+- [Research](/research) — My research projects
+- [CV](/cv) — My academic background
+- [About](/about) — Learn more about me
+
+
+
+

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on 8500 Hugo Demo</title>
-    <link>http://localhost:55751/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on 8500 Hugo Demo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55751/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Historical Silences and the Struggle to Remember</title>
-      <link>http://localhost:55751/blog/historical_memory/</link>
+      <link>http://localhost:1313/blog/historical_memory/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55751/blog/historical_memory/</guid>
+      <guid>http://localhost:1313/blog/historical_memory/</guid>
       <description>&lt;h1 id=&#34;historical-silences-and-the-struggle-to-remember&#34;&gt;Historical Silences and the Struggle to Remember&lt;/h1&gt;
 &lt;p&gt;A few years ago, my kids and I visited Monticello. After touring the main floor of the house and marveling at the many curiosities that it contained, we made our way to the basement, where enslaved persons toiled to make the beautiful environment above the stairs possible. We sat in the room that historians believed to belong to Sally Hemmings and watched the digital presentation of her life. We toured the reconstructed cabins that housed many of those enslaved on the plantation. All of this was moving and meaningful, but there was one moment on the &amp;ldquo;slave tour&amp;rdquo; that stopped me in my tracks. The tour guide mentioned that historians working on the plantation were struggling to identify and tell the stories of field slaves. These enslaved persons were said to live on the edges of Jefferson&amp;rsquo;s fields in temporary housing and were required to shift that housing according to what field demanded their attention.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Voyant Tools</title>
-      <link>http://localhost:55751/blog/voyant_tools/</link>
+      <link>http://localhost:1313/blog/voyant_tools/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55751/blog/voyant_tools/</guid>
+      <guid>http://localhost:1313/blog/voyant_tools/</guid>
       <description>&lt;h1 id=&#34;voyant-tools&#34;&gt;Voyant Tools&lt;/h1&gt;
 &lt;p&gt;I love words. Almost more than I do history. Should a historian admit that? This week our class readings were centered on the topic of digital visualizations. A digital visualization is an important tool in a humanist&#39;s toolbox. It allows for the words on the page to convey meaning in a new form, thus creating another avenue for communicating meaning to the reader. There are a few important things to keep in mind when choosing to incorporate a digital visualization into your work. First, in order to engage with a digital visualization tool, you must have a body of research that is already digitized so as to be searchable. Secondly, the digital visualization that you choose needs to match the scope of your work. For example, if I were attempting to grasp if Jane Austen&#39;s works discuss men or women more, a tool that can search the corpus of her works and provide an analysis of her word choice based on gender would be best for my research. As I choose a visualization tool, I must keep in mind my audience. If digital visualization tool is absolutely amazing but my reader will not be able to understand how to interpret it, then it is not a good fit for my project. I will need to either provide a tutorial on how to use the tool or choose another, easier to understand, visualization tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Digital History</title>
-      <link>http://localhost:55751/blog/what_is_digital_history/</link>
+      <link>http://localhost:1313/blog/what_is_digital_history/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55751/blog/what_is_digital_history/</guid>
+      <guid>http://localhost:1313/blog/what_is_digital_history/</guid>
       <description>&lt;h1 id=&#34;what-is-digital-history&#34;&gt;What is Digital History?&lt;/h1&gt;
 &lt;p&gt;What is digital history? This question is one that I hear constantly. I have recently begun to ask the questioner what it is they might think before I attempt to answer myself. A few of the answers: History with a computer? History that uses spreadsheets? And, my all-time personal favorite, a worldwide conspiracy for &amp;ldquo;them&amp;rdquo; to control us all by placing all history on servers controlled by the elite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Net.Create</title>
-      <link>http://localhost:55751/blog/net.create/</link>
+      <link>http://localhost:1313/blog/net.create/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55751/blog/net.create/</guid>
+      <guid>http://localhost:1313/blog/net.create/</guid>
       <description>&lt;p&gt;Net.Create is an open-source analysis tool that allows for the simultaneous building of a network by multiple users. The ability to create a network simultaneously with other researchers gives Net.Create the ability to foster creativity and responsiveness within a research team. Using metadata from the reading selections that we have worked on this semester, our digital history class used Net.Create to craft a network that represented the interconnected nature of these readings. &lt;/p&gt;</description>
     </item>
   </channel>
