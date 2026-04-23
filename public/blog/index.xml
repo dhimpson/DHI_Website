@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on PaperMod</title>
-    <link>//localhost:1313/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on PaperMod</description>
     <image>
       <title>PaperMod</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facts, Sources, and Fallacies</title>
-      <link>//localhost:1313/blog/facts_sources_and_fallacies/</link>
+      <link>http://localhost:1313/blog/facts_sources_and_fallacies/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/facts_sources_and_fallacies/</guid>
+      <guid>http://localhost:1313/blog/facts_sources_and_fallacies/</guid>
       <description>&lt;h1 id=&#34;facts-sources-and-fallacies&#34;&gt;Facts, Sources, and Fallacies&lt;/h1&gt;
 &lt;h2 id=&#34;stating-facts-and-citing-sources&#34;&gt;STATING FACTS AND CITING SOURCES&lt;/h2&gt;
 &lt;p&gt;This week&amp;rsquo;s assignment is two parts: First I will be looking at a historical assertion from one of my sources and then I will examine that assertion in two other historical works, looking closely at how other historians interpret that assertion.&lt;/p&gt;
@@ -26,59 +26,59 @@
     </item>
     <item>
       <title>Spinning Time</title>
-      <link>//localhost:1313/blog/spinning_time/</link>
+      <link>http://localhost:1313/blog/spinning_time/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/spinning_time/</guid>
+      <guid>http://localhost:1313/blog/spinning_time/</guid>
       <description>&lt;h1 id=&#34;spinning-time&#34;&gt;Spinning Time&lt;/h1&gt;
 &lt;p&gt;Timelines can be useful tools for visualizing how historical events unfolded. The JS Timeline tool from &lt;a href=&#34;http://timeline.knightlab.com/?_gl=1*1tws194*_ga*MTQ0MDQzMzkwNC4xNzMxNjIyNTcw*_ga_8F4WPDMPL5*MTczMjEyOTM1NC4yLjEuMTczMjEyOTM3MS4wLjAuMA..&#34;&gt;Knightlab&lt;/a&gt; allows the user to create digital timelines and publish them on the web. On this post I record a few thoughts regarding creating a digital timeline with the JS Timeline tool.&lt;/p&gt;
 &lt;p&gt;I chose to create a timeline about residential segregation ordinances in twentieth century America. I am addressing this topic in my thesis and already have sources complied. JS Timeline creators suggest limiting your timeline to twenty events or less. My current published timeline has ten events, but I may add more later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time in the Archive</title>
-      <link>//localhost:1313/blog/time_in_the_archive/</link>
+      <link>http://localhost:1313/blog/time_in_the_archive/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/time_in_the_archive/</guid>
+      <guid>http://localhost:1313/blog/time_in_the_archive/</guid>
       <description>&lt;h1 id=&#34;time-in-the-archive&#34;&gt;Time in the Archive&lt;/h1&gt;
 &lt;p&gt;This week, I visited the Clemson University Special Collections and Archives to get hands-on archival experience. Before I visited the archive, my class was given a list of primary source materials to choose a topic. I chose &lt;em&gt;The James F. Byrnes&lt;/em&gt; papers. I knew a little about Byrnes, as he had popped up in my research, but I needed to know more about him. I did a quick Google search to help me choose what possible topics from Byrnes&amp;rsquo;s life might be interesting to me. I used the finding aides on the Special Collections website to assist me in narrowing down my selections from the 3,000 plus items that are included in Byrne&amp;rsquo;s papers. I decided to focus on Byrnes&amp;rsquo;s sixteen-month stent as a justice of the United States Supreme Court, which occurred during World War II. This time period is confined to sources from Series 3 of the collection. I then requested Boxes 1, 2, and 6. These boxes contained various folders with mixed materials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timeline of Residential Segregation Ordinances</title>
-      <link>//localhost:1313/blog/timeline_of_residential_segregation_ordinances/</link>
+      <link>http://localhost:1313/blog/timeline_of_residential_segregation_ordinances/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/timeline_of_residential_segregation_ordinances/</guid>
+      <guid>http://localhost:1313/blog/timeline_of_residential_segregation_ordinances/</guid>
       <description>&lt;h1 id=&#34;timeline-of-residential-segregation-ordinances&#34;&gt;Timeline of Residential Segregation Ordinances&lt;/h1&gt;
 &lt;iframe src=&#39;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TTe-kaVsBbXd190tZ9WvonHZaErWM2CRDiJb6dRzCV8&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&#39; width=&#39;100%&#39; height=&#39;650&#39; webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder=&#39;0&#39;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Historical Silences and the Struggle to Remember</title>
-      <link>//localhost:1313/blog/historical_memory/</link>
+      <link>http://localhost:1313/blog/historical_memory/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/historical_memory/</guid>
+      <guid>http://localhost:1313/blog/historical_memory/</guid>
       <description>&lt;h1 id=&#34;historical-silences-and-the-struggle-to-remember&#34;&gt;Historical Silences and the Struggle to Remember&lt;/h1&gt;
 &lt;p&gt;A few years ago, my kids and I visited Monticello. After touring the main floor of the house and marveling at the many curiosities that it contained, we made our way to the basement, where enslaved persons toiled to make the beautiful environment above the stairs possible. We sat in the room that historians believed to belong to Sally Hemmings and watched the digital presentation of her life. We toured the reconstructed cabins that housed many of those enslaved on the plantation. All of this was moving and meaningful, but there was one moment on the &amp;ldquo;slave tour&amp;rdquo; that stopped me in my tracks. The tour guide mentioned that historians working on the plantation were struggling to identify and tell the stories of field slaves. These enslaved persons were said to live on the edges of Jefferson&amp;rsquo;s fields in temporary housing and were required to shift that housing according to what field demanded their attention.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Text Analysis with Voyant Tools</title>
-      <link>//localhost:1313/blog/voyant_tools/</link>
+      <link>http://localhost:1313/blog/voyant_tools/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/voyant_tools/</guid>
+      <guid>http://localhost:1313/blog/voyant_tools/</guid>
       <description>&lt;h1 id=&#34;text-analysis-with-voyant-tools&#34;&gt;Text Analysis with Voyant Tools&lt;/h1&gt;
 &lt;p&gt;This week, I am exploring how to use Voyant tools in text analysis. &lt;a href=&#34;https://voyant-tools.org/&#34;&gt;Voyant Tools&lt;/a&gt; provides web-based reading and visualization tools for digital text.&lt;/p&gt;
 &lt;p&gt;I chose three tools to try out from the many that Voyant offers. First, I learned about the Topics tool. This tool assists researchers in understanding what topics or term clusters exist in a corpus of work. The tool sorts the words in the corpus by randomly assigning each word a number that corresponds to a topic. The occurrences of these topics, as determined by the number of term clusters that have been returned for the topic, are then visualized by the voyant tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Digital History</title>
-      <link>//localhost:1313/blog/what_is_digital_history/</link>
+      <link>http://localhost:1313/blog/what_is_digital_history/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/what_is_digital_history/</guid>
+      <guid>http://localhost:1313/blog/what_is_digital_history/</guid>
       <description>&lt;h1 id=&#34;what-is-digital-history&#34;&gt;What is Digital History?&lt;/h1&gt;
 &lt;p&gt;What is digital history? This question is one that I hear constantly. I have recently begun to ask the questioner what it is they might think before I attempt to answer myself. A few of the answers: History with a computer? History that uses spreadsheets? And, my all-time personal favorite, a worldwide conspiracy for &amp;ldquo;them&amp;rdquo; to control us all by placing all history on servers controlled by the elite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Net.Create</title>
-      <link>//localhost:1313/blog/net.create/</link>
+      <link>http://localhost:1313/blog/net.create/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/net.create/</guid>
+      <guid>http://localhost:1313/blog/net.create/</guid>
       <description>&lt;p&gt;Net.Create is an open-source analysis tool that allows for the simultaneous building of a network by multiple users. The ability to create a network simultaneously with other researchers gives Net.Create the ability to foster creativity and responsiveness within a research team. Using metadata from the reading selections that we have worked on this semester, our digital history class used Net.Create to craft a network that represented the interconnected nature of these readings.&lt;/p&gt;</description>
     </item>
   </channel>
