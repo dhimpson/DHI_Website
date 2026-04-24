@@ -44,4 +44,4 @@ jobs:
           rsync -avz --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r \
             -e "ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes" \
             public/ \
-            ${{ secrets.SSH_USER }}@DORAIMPSON.COM:~/public_html/
+            ${{ secrets.SSH_USER }}@doraimpson.com:~/public_html/
