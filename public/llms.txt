@@ -1,4 +1,4 @@
-# PaperMod
+# Dora Helen Impson
 - [CV](http://localhost:1313/cv/)
 - [Research](http://localhost:1313/research/)
 - [About](http://localhost:1313/about/)
